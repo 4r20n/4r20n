@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4r20n
+- 👋 Hi, I’m Miranda
 - 👀 I’m interested in reading and writting
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on 
